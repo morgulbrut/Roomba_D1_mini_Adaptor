@@ -1,78 +1,9 @@
 *************************************************************
-FileName = Pr_PCB_Nr.GBR
+FileName = Roomba-D1-mini.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : Pr_PCB_Nr.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Pr_PCB_Nr.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Component Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Pr_PCB_Nr.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Component Side
-      File : Pr_PCB_Nr.GTL
-
-    Adding Layer      : Component Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
 Generating : BoardOutline
-      File : Pr_PCB_Nr.GM1
+      File : Roomba-D1-mini.GM1
 
     Adding Layer      : BoardOutline
 
@@ -82,41 +13,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Solder Side
-      File : Pr_PCB_Nr.GBS
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Pr_PCB_Nr.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
-      File : Pr_PCB_Nr.GTS
+      File : Roomba-D1-mini.GTS
 
     Adding Layer      : Top Solder
 
@@ -140,7 +38,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Layer
-      File : Pr_PCB_Nr.GBL
+      File : Roomba-D1-mini.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -153,5 +51,107 @@ Used DCodes :
     D34
     D35
     D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Roomba-D1-mini.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Roomba-D1-mini.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Roomba-D1-mini.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Component Side
+      File : Roomba-D1-mini.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : Roomba-D1-mini.GBS
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Roomba-D1-mini.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 

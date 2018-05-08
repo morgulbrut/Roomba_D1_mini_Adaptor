@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Demo.PcbDoc   08.05.2018  08:52:40
+NCDrill File Report For: Demo.PcbDoc   08.05.2018  10:38:29
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Component Side to Bottom Layer
-ASCII Plated RoundHoles File : Pr_PCB_Nr-Plated.TXT
-EIA File   : Pr_PCB_Nr.DRL
+ASCII Plated RoundHoles File : Roomba-D1-mini-Plated.TXT
+EIA File   : Roomba-D1-mini.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
