@@ -1,0 +1,12 @@
+Line #,Quantity,Comment,Description,Designator,Footprint,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","1","100n","Chip capacitor, generic","C1","0603_C","","","","","","",""
+"","3","10u/35V","Chip capacitor, generic","C2, C3, C5","0805_C_E0","","","","","","",""
+"","1","1u","Chip capacitor, generic","C4","0603_C","","","","","","",""
+"","1","SRN4012T-220M","Surface Mount Power Inductor, SRN4012T Series, 22 H, 620 mA, 500 mA, Semishielded, 0.4 ohm","L1","SRN4012T","Bourns","SRN4012T-220M","Volume Production","Digi-Key","SRN4012T-220MCT-ND","0.41","0.41"
+"","5","10k","Resistor, generic","R1, R4, R5, R6, R7","0603_R","","","","","","",""
+"","1","52k3 0.5% 25ppm","Resistor, generic","R2","0603_R","","","","","","",""
+"","1","10k  0.5% 25ppm","Resistor, generic","R3","0603_R","","","","","","",""
+"","1","MCP16311","DC-DC Switching Buck Step Down Regulator, Adjustable, 4.4V-30Vin, 2V-24Vout, 1Aout, MSOP-8","U1","MSOP8","Microchip","MCP16311-E/MS","New Product","Digi-Key","MCP16311-E/MS-ND","1.36","1.36"
+"","2","BSS138","MOSFET N-CH 50V 220MA SOT-23","U2, U3","SOT-23","TI National Semiconductor","BSS138","Unknown","Digi-Key","BSS138DKR-ND","0.32","0.64"
+"","2","Connector 8Pin","Generic connector 8 Pin","X2, X3","Pin Header 1x8 TH Pitch 2.54mm","","","","","","",""

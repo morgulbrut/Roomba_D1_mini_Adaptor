@@ -1,0 +1,1 @@
+# Roomba-D1-mini Adaptor shenzenready
